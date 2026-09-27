@@ -1,0 +1,806 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.look{
+    height: 80px;
+    background-color: #f7f3fc;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+.imgg{
+    width: 32px;
+    height: 32px;
+    margin-top: 15px;
+}
+
+.ota{
+    display: flex;
+    gap: 20px;
+    
+}
+
+.font{
+   font-size: 20px;
+   color: black;
+}
+
+.grey{
+    color: #7E5700;
+}
+
+.bubu{
+    width: 467.7px;
+    height: 68px;
+    border-radius: 9999px;
+    background-color: #F5F2FB;
+    display: flex;
+    padding: 5px 9px;
+}
+
+.olk{
+    width: 93.42px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+    padding: 4px 16px;
+    
+}
+
+.bek{
+    width: 93.42px;
+    height: 56px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+    background-color: #F5F2FB;
+}
+
+
+.lolo{
+    color: #7E5700;
+}
+
+.olol{
+    color: #7E5700;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.olk:hover  {
+   background-color: #DB322F;
+
+    color: #7E5700;
+}
+
+.bek:hover{
+   background-color: #DB322F;
+   color: #7E5700;
+}
+
+.gogo{
+    color: #5B403D;
+}
+
+.jo{
+    font-size: 14px;
+    text-align: center;
+}
+
+.otaa-div{
+    width: 152.44px;
+    height: 54px;
+    background-color: #EFECF5;
+    border-radius: 9999px;
+    padding: 5px 5px 10px ;
+}
+
+.kichik{
+    display: flex;
+    width: 37.61px;
+    height: 44px;
+    background-color: #EFECF5;
+    border-radius: 9999px;
+    justify-content: center;
+    align-items: center;
+}
+
+.imj{
+    width: 14.6667px;
+    height: 18.3333px;
+    
+}
+
+.buttt{
+    width: 162.06px;
+    height: 48px;
+    background-color: #B7131A;
+    box-shadow: 2px 2px 14px #DB322F;
+    border-radius: 9999px;
+    color: white;
+}
+
+.dumaloq{
+    width: 32px;
+    height: 32px;
+    background-color: #DB322F;
+    border-radius: 9999px;
+
+     display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+.main-ota{
+    width: 1200px;
+    height: 556px;
+    background-color: #FBF8FF;
+    padding-top: 70px;
+    padding: 60px 60px;
+    
+}
+
+.imim{
+    width: 540px;
+    
+}
+
+/* main-qisimmmmm */
+
+.chaqmoq{
+    width: 285.4733px;
+    height: 34px;
+    border-radius: 9999px;
+    background-color: #FEB30033;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
+
+
+.fofo{
+    font-size: 14px;
+}
+
+.we{
+    color: red;
+    text-shadow: 1px 2px 10px red;
+
+}
+
+
+
+.popo{
+    font-size: 56px;
+    margin-top: 20px;
+}
+
+.mlml{
+    margin-top: 20px;
+}
+
+.lololo{
+    width: 214.44000244140625px;
+    height: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 9999px;
+    background-color:#DB322F;
+    gap: 5px;
+    color: white;
+    margin-top: 20px;
+     box-shadow: 5px 5px 10px crimson;
+    
+}
+
+.lolol{
+    width: 214.44000244140625px;
+    height: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 9999px;
+    background-color: #FBF8FF;
+    gap: 5px;
+    color: white;
+    margin-top: 20px;
+    box-shadow: 5px 5px 4px crimson;
+}
+
+
+.duop{
+    color: #5B403D;
+}
+
+
+
+
+
+.ccd{
+    color: gray;
+}
+
+.yonmayon{
+    display: flex;
+    gap: 20px;
+}
+.frgt{
+     display: flex;
+     margin-top: 10px;
+     gap: 10px;
+}
+
+/* boshqaaaa */
+
+.container2{
+    margin: 0 auto;
+    width: 1200px;
+
+}
+
+.but-otaaa{
+    text-align: center;
+    gap: 10px;
+    padding-top: 13px;
+}
+
+.red:hover{
+    background-color:#DB322F;
+    color: #F5F2FB;
+}
+
+.red{
+    width: 98.69999694824219px;
+    height: 38px;
+    background-color: #FFFFFF;
+    border-radius: 9999px;
+}
+
+.o{
+    font-size: 12px;
+    text-align: center;
+    padding-top: 30px;
+    color: red;
+    text-shadow: 10px 10px 15px;
+    
+}
+
+
+
+.otaaaaaa{
+   height: 186px;
+   background-color: #F5F2FB;
+   margin: 1px;
+}
+
+.fop{
+    font-size: 40px;
+    text-align: center;
+}
+
+.lplp{
+    text-align: center;
+}
+
+
+/* l;ll;l;l; */
+
+
+
+
+.sek3{
+    height: 864px;
+    background-color: #F5F2FB;
+    display: flex;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 2px;
+    
+}
+
+.divlar{
+    width: 362.6667px;
+    height: 420px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    gap: 30px;
+    padding: 20px 20px;
+
+}
+
+
+.h3{
+    padding-top: 10px;
+}
+
+.lo{
+    padding-top: 10px;
+}
+
+.h2{
+    margin-top: 10px;
+}
+
+.buuub{
+    width: 110.3px;
+    height: 44px;
+    background-color: #B7131A;
+    border-radius: 9999px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.buuub:hover{
+    background-color: #FEB300;
+    color: #EFECF5;
+}
+
+body{
+    background-color: #F5F2FB;
+}
+
+/* select-boshqa qisim */
+
+
+    
+    
+    
+    
+    
+
+
+
+.lopo{
+    width: 1136px;
+    border-radius: 24px;
+    background: linear-gradient(90deg, #B7131A 0%, #DB322F 50%, #FEB300 100%);
+    padding: 48px 48px;
+     margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+
+
+    
+
+}
+
+.mayda{
+    width: 219.78px;
+    height: 24px;
+    border-radius: 9999px;
+    background-color:#FFFFFF33;
+    display: flex;
+    /* margin-top: 30px; */
+    padding: 5px 1px;
+    color: #FFFFFF;
+    
+   
+}
+
+.text-kotta{
+    font-size: 40px;
+    padding-top: 20px;
+    color: #FFFFFF;
+}
+
+.plki{
+    padding-top: 20px;
+    color: #FFFFFF;
+}
+
+.soat-boy{
+    display: flex;
+}
+
+.go{
+    color: #FFFFFF;
+    margin-top: 10px;
+
+   
+    
+}
+
+.mll{
+    width: 48.02px;
+    height: 36px;
+    border-radius: 8px;
+     background: #0000004D;
+     text-align: center;
+     padding-top: 8px;
+     color: #FFFFFF;
+     
+}
+
+.tochka2{
+    margin-top: 8px;
+}
+
+.promokod{
+    width: 183.77px;
+    height: 68.5px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 9px;
+}
+
+.pml{
+    font-size: 11px;
+
+}
+
+.pppp{
+    font-size: 20px;
+    color: #B7131A;
+}
+
+.mjhg{
+    width: 238.09px;
+    height: 56px;
+    background-color: #FFFFFF;
+    border-radius: 9999px;
+    text-align: center;
+    padding-top: 16px;
+    margin-top: 20px;
+}
+
+/* .burger-house */
+
+
+.burger-house{
+    height: 109px;
+    background-color: #F5F2FB;
+     margin-top: 50px;
+     text-align: center;
+    
+    
+}
+
+.container5{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.maydd{
+    width: 144.77px;
+    height: 23px;
+    border-radius: 9999px;
+    background-color: #FFDAD680;
+    padding: px px;
+    color: #DB322F;
+
+}
+
+.lololooooo{
+    font-size: 40px;
+}
+
+.nega-aynan-burger-house{
+    height: 240.3px;
+    background-color: #F5F2FB;
+    display: flex;
+    gap: 30px;
+    
+    
+}
+
+.didiv{
+    width: 266px;
+    height: 224.3000030517578px;
+    padding: 24px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+}
+
+.ooo{
+    margin-top: 18px;
+}
+
+
+.moxiyat{
+    background-color: #FBF8FF;
+    padding: 48px 48px;
+    
+}
+
+.zaxira{
+    display: flex;
+    
+
+}
+
+.img-turargoxp{
+    border-radius: 24px;
+    
+}
+
+
+.kichik{
+    width: 234.92px;
+    height: 24px;
+    background-color: #FFDAD680;
+
+}
+
+.ikki-otaa{
+    padding: 20px;
+}
+
+.olcham{
+    font-size: 12px;
+    color: #B7131A;
+}
+
+.ushta-divlar{
+    display: flex;
+    gap: 20px;
+}
+
+
+.f{
+    font-size: 40px;
+}
+
+.g{
+    color: #b2aabd;
+}
+
+.bir{
+    width: 173.3333px;
+    padding: 23px 15px;
+    border-radius: 16px;
+    background-color:  #F5F2FB;
+
+}
+
+.p{
+    color: #5B403D;
+
+}
+
+.fonfobn{
+    color:  #B7131A;
+
+}
+
+.colo{
+    color: #7E5700;
+}
+
+.ki{
+    color: black;
+}
+
+.bosh-h{
+    height: 646px;
+    background-color: #f1eef9;
+    padding: 45px 48px;
+
+}
+
+.yordamchi{
+    display: flex;
+    gap: 50px;
+}
+
+.kichic{
+    width: 151.59px;
+    height: 23px;
+    background-color: #FFDAD680;
+    border-radius: 9999px;
+}
+
+.kich-color{
+    color: #B7131A;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.biz-bilan{
+    font-size: 40px;
+    margin-top: 10px;
+
+}
+
+.col{
+    color: #5B403D;
+    margin-top: 12px;
+}
+
+.div-chls{
+    width: 454.6667175292969px;
+    
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    display: flex;
+    padding: 10px 10px;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.rang{
+    color: #5B403D;
+   
+}
+
+.img{
+    width: 48px;
+    height: 48px;
+    margin-top: 20px;
+}
+
+.pass{
+    margin-top: 20px;
+}
+
+.yon-qisim{
+    width: 649.3333px;
+   
+    padding: 30px 30px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    
+}
+
+.imput{
+    width: 276.6667px;
+    height: 52px;
+    background-color: #F5F2FB;
+    border-radius: 16px;
+}
+
+.jorj{
+    display: flex;
+}
+
+.kk{  
+    font-size: 24px;
+}
+
+.pllo-ota{
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.uzun-ca{
+  width: 569.3333px;
+  height: 52px;
+  background-color: #F5F2FB;
+  border-radius: 16px;
+}
+
+.oooo{
+    margin-top: 10px;
+}
+
+.kottaroq{
+    width: 569.3333px;
+    height: 104px;
+    background-color: #F5F2FB;
+    border-radius: 16px;
+}
+
+.hh{
+    margin-top: 13px;
+}
+
+.bubutl{
+    width: 569.3333px;
+    height: 64px;
+    border-radius: 9999px;
+    background-color: #B7131A;
+    margin-top: 30px;
+    box-shadow: 6px 4px 15px crimson;
+    
+}
+
+.white{
+    color: white;
+}
+
+.otaaaaam{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+}
+
+.footer-suuuu{
+    height: 249.25px;
+    background-color: #FBF8FF;
+    padding: 30px 30px;
+}
+
+.oki{
+
+}
+
+.ll{
+    margin-top: 8px;
+}
+
+.plo-ota{
+    display: flex;
+}
+
+.passs{
+    margin-top: 20px;
+    gap: 5px;
+}
+
+.yordam-ber{
+    display: flex;
+    gap: 100px;
+}
+
+
+
+.po{
+    color: #5B403D;
+    margin-top: 1px;
+}
+
+.ppps{
+    color: #7E5700;
+}
+
+.ds{
+    display: flex;
+    margin-top: 10px;
+}
+
+.plllll{
+    margin-top: 2px;
+    
+    gap: 15px;
+}
+
+.whitw-1{
+    height: 59.5px;
+    background-color: #E4E1EA66;
+}
+
+.yor-dam{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding: 20px 20px;
+}
+
+.dgf{
+    display: flex;
+}
